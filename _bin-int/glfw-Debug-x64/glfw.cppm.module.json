@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Workspace\\Programming\\C++\\New folder\\glfw\\_bin-int\\glfw-Debug-x64\\glfw.cppm.obj",
+            "outputs": [
+                "C:\\Workspace\\Programming\\C++\\New folder\\glfw\\_bin\\glfw-Debug-x64\\glfw.pdb",
+                "C:\\Workspace\\Programming\\C++\\New folder\\glfw\\_bin-int\\glfw-Debug-x64\\",
+                "C:\\Workspace\\Programming\\C++\\New folder\\glfw\\_bin-int\\glfw-Debug-x64\\glfw.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glfw",
+                    "source-path": "c:\\workspace\\programming\\c++\\new folder\\glfw\\glfw.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
